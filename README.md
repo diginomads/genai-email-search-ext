@@ -46,18 +46,22 @@ https://chrome.google.com/webstore/detail/sortd-for-gmail/aohlfneeliakfcefeffppf
 https://twitter.com/TikTokInvestors/status/1632421244120498178 
 
 ## TODO
+- [] Add License 
 - [] Break up frontend and backend
 - [] Add support to email layer content filter
 - [] Prioritize which features are necessary for MVP
 - [] QA/Review with outlook.com and apple.com email clients
 - [] Product feedback
 
-
 ### Further Research 
 
 - https://extension.hashnode.com/
 - https://github.com/Hashnode/hashnode-browser-extensions 
 - https://github.com/j-manu/easy-peasy-gmail-search 
+- https://github.com/HartS/gpt-hacker-news-extension 
+- https://nifflr.com/ 
+- https://twitter.com/sgondala2/status/1639755698765697024
+- https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gpt%20extension&sort=byPopularity&type=story
 - https://github.com/akasuv/blinkread
 - https://openai.com/research/gpt-4 
 
