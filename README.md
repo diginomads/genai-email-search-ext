@@ -2,6 +2,12 @@
 
 According to a Canadian survey, people spend a total of 17 hours a week reading, responding and sending work emails both at work and at home. 
 
+## Installation
+
+1. Clone this repository, so it exists locally: `$ git clone git@github.com:DigiNomad-xyz/magellan-email-extension.git`
+2. In your browser, open the Extension Management page by navigating to chrome://extensions or by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
+3. Enable Developer Mode by clicking the toggle switch next to Developer mode.
+4. Click the LOAD UNPACKED button and select the extension directory (this repository, where it was cloned to).
 
 ---
 ### Alternatives
@@ -32,3 +38,9 @@ https://chrome.google.com/webstore/detail/sortd-for-gmail/aohlfneeliakfcefeffppf
 
 
 https://twitter.com/TikTokInvestors/status/1632421244120498178 
+
+
+### Further Research 
+
+- https://extension.hashnode.com/
+- https://github.com/Hashnode/hashnode-browser-extensions 
