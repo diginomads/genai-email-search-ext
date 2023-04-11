@@ -2,6 +2,8 @@
 
 According to a Canadian survey, people spend a total of 17 hours a week reading, responding and sending work emails both at work and at home. 
 
+The search function in Gmail is robust, but it can be cumbersome to recall the operators and properly format dates. Using this extension a separate query box be available built ontop of existing gmail search functionality. GenAI will create the operators necessary for refineded searches. 
+
 http://DigiNomad-xyz.github.io/magellan-email-extension/
 
 ### Download
@@ -63,7 +65,10 @@ https://twitter.com/TikTokInvestors/status/1632421244120498178
 - https://twitter.com/sgondala2/status/1639755698765697024
 - https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gpt%20extension&sort=byPopularity&type=story
 - https://github.com/akasuv/blinkread
+- https://developer.mozilla.org/en-US/docs/Web/API/EventSource
 - https://openai.com/research/gpt-4 
+- https://support.google.com/mail/answer/7190?hl=en
+- https://kinsta.com/blog/gmail-search-operators/ 
 
 
 
