@@ -4,7 +4,7 @@ According to a Canadian survey, people spend a total of 17 hours a week readin
 
 The search function in Gmail is robust, but it can be cumbersome to recall the operators and properly format dates. Using this extension a separate query box be available built ontop of existing gmail search functionality. GenAI will create the operators necessary for refineded searches. 
 
-[http://DigiNomad-xyz.github.io/genai-email-search-ext/](http://diginomads.github.io/genai-email-search-ext)
+[http://diginomads.github.io/genai-email-search-ext/](http://diginomads.github.io/genai-email-search-ext)
 
 ### Download
 
