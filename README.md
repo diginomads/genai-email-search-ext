@@ -1,6 +1,17 @@
 # Email Extension
 
-According to a Canadian survey, people spend a total of 17 hours a week reading, responding and sending work emails both at work and at home. 
+[According to a Canadian survey, people spend a total of 17 hours a week](https://newsroom.carleton.ca/archives/2017/04/20/carleton-study-finds-people-spending-third-job-time-email/) reading, responding and sending work emails both at work and at home. 
+
+## Usage
+```
+# While in Gmail press
+
+## MacOS
+CMD + k
+
+## Windows
+CNTRL + k
+```
 
 The search function in Gmail is robust, but it can be cumbersome to recall the operators and properly format dates. Using this extension a separate query box be available built ontop of existing gmail search functionality. GenAI will create the operators necessary for refineded searches. 
 
